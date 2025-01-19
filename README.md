@@ -1,6 +1,6 @@
 # Recommending Similar Movies using Collaborative Filtering
 
-This project explores the implementation of a basic movie recommendation system using collaborative filtering in Python. The system leverages user-item interaction data to suggest movies similar to a user's preferred choices. We'll delve into the data processing, exploratory data analysis (EDA), and the core recommendation logic.
+Implementation of a basic movie recommendation system using collaborative filtering in Python. The system leverages user-item interaction data to suggest movies similar to a user's preferred choices. We'll delve into data processing, exploratory data analysis (EDA), and the core recommendation logic.
 
 **1. Data Acquisition and Preprocessing**
 
